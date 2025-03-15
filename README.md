@@ -11,5 +11,4 @@ Technologies used for this project
 * CSS
 * JavaScript
 
-Demo
-You can try a live demo of this snake game here.
+You can try a live demo of this rock, paper, scissors game [here](https://todorbonev.github.io/Rock-paper-scissors).
